@@ -1,0 +1,91 @@
+HELP.md
+target/
+/bin/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Maven ###
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+### Gradle ###
+.gradle/
+*.gradle
+
+### Package Files ###
+*.jar
+*.war
+*.ear
+*.rar
+*.zip
+*.gz
+*.7z
+
+### Compiled classes ###
+*.class
+*.log
+*.ctxt
+
+### OS specific ###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+### Database files ###
+*.db
+*.sqlite
+*.sqlite3
+
+### Backup files ###
+*.bak
+*.backup
+*.tmp
+*~
+*.swp
+*.swo
+
+### Environment variables ###
+.env
+.env.local
+.env.*.local
